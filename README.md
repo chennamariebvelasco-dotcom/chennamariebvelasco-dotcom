@@ -1,6 +1,6 @@
 <!-- 1. TOP BANNER  -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fff0f5&height=220&section=header&text=✦%20welcome%20to%20chenna's%20workspace%20✦&fontSize=40&animation=twinkling&fontColor=ffb6c1" alt="Pink Waving Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fff0f5&height=120&section=header&text=✧%20my%20learning%20milestones%20✧&fontSize=30&animation=twinkling&fontColor=ffb6c1" alt="Milestones Heading" />
 </p>
 
 <!-- DYNAMIC TYPING LOG -->
